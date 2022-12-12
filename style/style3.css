@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar{
+    background-image: linear-gradient(to right, #a643d8,#5f1782);
+    
+    padding: 0 !important;
+}
+.navbar-brand img{
+    height: 70px;
+    padding-left: 20px;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: #fff !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+.fa-bars{
+    color: #fff;
+    font-size: 30px !important;
+}
+.navbar-toggler{
+    outline: none !important;
+}
+#banner{
+    background-image: linear-gradient(to right, #a711be,#600f88);
+    color: #fff;
+    padding-top: 5%;
+}
+.promo{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+.play{
+    width: 45px;
+    margin: 20px;
+}
+#banner a{
+    color: #fff;
+    text-decoration: none;
+}
+
+/* .............................Services Section...................................... */
+
+#services{
+    padding: 80px 0;
+    background-color: rgb(248, 244, 244);
+}
+
+.service-img{
+    width: 100%;
+    margin-top: 20px;
+}
+.services{
+    padding: 20px;
+}.services h4{
+    padding: 5px;
+    margin-top: 25px;
+    text-transform: uppercase;
+}

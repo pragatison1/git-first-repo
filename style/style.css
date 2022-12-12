@@ -1,0 +1,50 @@
+body{
+padding: 0px;
+margin: 0px;    
+background-image: url(../img/photo.jpeg);
+background-repeat: no-repeat;
+background-size: cover;    
+}
+.float-left{
+float: left;
+background-color: rgb(16, 192, 236);
+height: 650px;
+width: 439px;
+margin-top: 90px;
+margin-left: 20%;
+border-radius: 20px;
+}
+.float-right{
+    float: right;
+    background-color: rgb(14, 18, 19);
+    height: 650px;
+    width: 430px;
+    margin-top: 90px;
+    margin-right: 25%;
+    border-radius: 20px;
+    color: aliceblue;
+}
+.h2{
+text-align: center; 
+margin-top: 70px;   
+}
+.txt{
+text-align:center;
+margin-right: 160px;    
+}
+button{
+height: 40px;
+width: 110px;
+background-color: rgb(24, 150, 24);
+border-radius: 30px; 
+color: aliceblue; 
+}
+.twt{
+margin-top: 40%;
+margin-left: 170px;    
+}
+/* .img{
+float: left;
+height: 500px;
+width: 30px;
+} */
